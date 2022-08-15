@@ -1,0 +1,29 @@
+[
+{
+    "nombre":"Julia", 
+    "pais":"Canada", 
+    "cargo":"Ingeniera",
+    "empresa":"Spotify",
+    "imagen":"julia.png",
+    "testimonio":"He aprendido mucho del curso y estoy absolutamente seguro de que puedo aplicar todo lo aprendido en el curso para resolver problemas de usabilidad del producto."
+},
+
+{
+    "nombre":"Augusto", 
+    "pais":"Italia", 
+    "cargo":"Diseñador",
+    "empresa":"Nike",
+    "imagen":"augusto.jpg",
+    "testimonio":"Las tareas estaban bien diseñadas y eran muy buenas herramientas de aprendizaje. Es una buena introducción a los temas de usabilidad y tiene la combinación adecuada de conocimientos teóricos y prácticos."
+},
+
+{
+    "nombre":"Rebeca", 
+    "pais":"Polonia", 
+    "cargo":"Productora",
+    "empresa":"Abbey Roads Records",
+    "imagen":"rebeca.jpg",
+    "testimonio":"El profesor siempre estaba ahí si lo necesitabas. ¡El estuvo genial! Estoy pensando en contratar a algunos miembros de mi personal. Con ganas de tomar otra clase."
+}
+]
+
